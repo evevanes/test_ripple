@@ -1,0 +1,11 @@
+write a script called tax-paid
+ask current income(input)
+tax= 0.3*income
+tell user tax they need to pay
+
+scope of variables in python
+singleton pattern
+
+circle radius
+area 
+perimeter
